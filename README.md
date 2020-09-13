@@ -7,10 +7,10 @@
 	<a href="https://packagephobia.now.sh/result?p=node-fetch"><img src="https://badgen.net/packagephobia/install/node-fetch" alt="Current version"></a>
 	<a href="https://www.npmjs.com/package/node-fetch"><img src="https://img.shields.io/npm/v/node-fetch" alt="Install size"></a>
 	<a href="https://github.com/sindresorhus/awesome-nodejs"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Node.js"></a>
-	<a href="https://discord.gg/Zxbndcm"><img src="https://img.shields.io/discord/619915844268326952?color=%237289DA&label=Discord" alt="Discord"></a>
 	<br>
 	<br>
 	<b>Consider supporting us on our Open Collective:</b>
+        <b> There has been alot of issues in the original github thing, if you wanna do stuff in this, make a pull request.
 	<br>
 	<br>
 	<a href="https://opencollective.com/node-fetch"><img src="https://opencollective.com/node-fetch/donate/button.png?color=blue" alt="Open Collective"></a>
